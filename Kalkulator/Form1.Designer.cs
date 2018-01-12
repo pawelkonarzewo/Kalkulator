@@ -62,6 +62,7 @@
             // 
             // TBerkan
             // 
+            this.TBerkan.Enabled = false;
             this.TBerkan.Location = new System.Drawing.Point(9, 47);
             this.TBerkan.Name = "TBerkan";
             this.TBerkan.Size = new System.Drawing.Size(315, 20);
@@ -338,7 +339,7 @@
             // zamknijToolStripMenuItem
             // 
             this.zamknijToolStripMenuItem.Name = "zamknijToolStripMenuItem";
-            this.zamknijToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.zamknijToolStripMenuItem.Size = new System.Drawing.Size(117, 22);
             this.zamknijToolStripMenuItem.Text = "Zamknij";
             this.zamknijToolStripMenuItem.Click += new System.EventHandler(this.zamknijToolStripMenuItem_Click);
             // 
